@@ -1,7 +1,7 @@
 # CI-CD-Example
-CI/CD Using Fastlane and Jenkins__
+CI/CD Using Fastlane and Jenkins
 
-To add Fastlane in your projetc:__
+To add Fastlane in your projetc:
 *Install RVM -><br />
 Run this line in the terminal "\curl -sSL https://get.rvm.io | bash -s stable --ruby"__
 To start using RVM you need to run in the terminal "source /Users/YOUR USER/.rvm/scripts/rvm"__
