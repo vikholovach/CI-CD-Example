@@ -1,19 +1,19 @@
 # CI-CD-Example
-CI/CD Using Fastlane and Jenkins
+CI/CD Using Fastlane and Jenkins__
 
-To add Fastlane in your projetc:
-\n**Install RVM** -> 
-Run this line in the terminal "\curl -sSL https://get.rvm.io | bash -s stable --ruby"
-To start using RVM you need to run in the terminal "source /Users/YOUR USER/.rvm/scripts/rvm"
+To add Fastlane in your projetc:__
+**Install RVM** ->__ 
+Run this line in the terminal "\curl -sSL https://get.rvm.io | bash -s stable --ruby"__
+To start using RVM you need to run in the terminal "source /Users/YOUR USER/.rvm/scripts/rvm"__
 
-**Install the latest Xcode command-line tools:**
-Run this line in the terminal "xcode-select --install"
+**Install the latest Xcode command-line tools:**__
+Run this line in the terminal "xcode-select --install"__
 
 
-**Installing Fastlane:**
-# Using RubyGems
-sudo gem install fastlane -NV
-# Alternatively using Homebrew
-brew install fastlane
-# Verify fastlane version
-fastlane -v
+**Installing Fastlane ->**__
+# Using RubyGems__
+sudo gem install fastlane -NV__
+# Alternatively using Homebrew__
+brew install fastlane__
+# Verify fastlane version__
+fastlane -v__
